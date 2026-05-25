@@ -1,14 +1,7 @@
-# 👁️ 旭创研究院AOI小组
+# 👁️ 旭创研究院APTS小组
 
-这里是 **旭创研究院AOI小组** 的官方 GitHub 主页。  
+这里是 **旭创研究院APTS小组** 的官方 GitHub 主页。  
 我们专注于 **光学检测、工业 AOI (Automated Optical Inspection) 与智能视觉算法** 的研究与工程化落地。
-
----
-
-## 📂 核心仓库
-- 🔍 [EyeQ](https://github.com/ITRI-AOI/EyeQ) — 工业AOI检测通用软件
-- 🔍 [EyeTuneFront](https://github.com/ITRI-AOI/EyeTuneFront) — 一站式AI数据模型管理平台（前端）
-- 🔍 [EyeTuneServe](https://github.com/ITRI-AOI/EyeTuneServe) — 一站式AI数据模型管理平台（后端）
 
 ---
 
